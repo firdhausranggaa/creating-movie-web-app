@@ -32,6 +32,7 @@ Aplikasi web penjelajah dan pelacak film yang modern, responsif, dan kaya fitur,
 
 ## 📁 Struktur Folder
 
+```text
 movie-app/
 ├── public/
 ├── src/
